@@ -2,13 +2,13 @@
   margin: 20px;
 }
 .head {
-  border: 1.8px solid black;
+  border: 2px solid black;
   height: 3.5rem;
   margin-top: 10px;
 }
 
 .head .column {
-  border-right: 1.8px solid black;
+  border-right: 2px solid black;
   display: flex;
   justify-content: center;
 align-items: center;
@@ -23,14 +23,14 @@ align-items: center;
 }
 
 .middle-container {
-  border-left: 1.8px solid black;
+  border-left: 2px solid black;
   
-  border-right: 1.8px solid black;
+  border-right: 2px solid black;
   height: 58vh;
 }
 
 .middle-container .first-column {
-  border-right: 1.8px solid black;
+  border-right: 2px solid black;
   display: flex;
   justify-content: center;
 align-items: center;
@@ -48,7 +48,7 @@ align-items: center;
 align-items: center;
 }
 .foot{
-  border: 1.8px solid black;
+  border: 2px solid black;
   height:23vh;
   display: flex;
   /* justify-content: flex-start; */

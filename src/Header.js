@@ -7,7 +7,7 @@ function Header() {
       <Container >
       <Row className='head'>
         <Col className='column' xs={4}> <strong>LOREM IPSUM</strong></Col>
-        <Col className='link'><strong> <a> LINK1</a></strong></Col>
+        <Col className='link'><strong> <a> LINK 1</a></strong></Col>
       </Row>
 
       </Container>
