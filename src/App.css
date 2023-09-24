@@ -1,0 +1,65 @@
+.App{
+  margin: 20px;
+}
+.head {
+  border: 1.8px solid black;
+  height: 3.5rem;
+  margin-top: 10px;
+}
+
+.head .column {
+  border-right: 1.8px solid black;
+  display: flex;
+  justify-content: center;
+align-items: center;
+  height: 3.5rem;
+}
+
+.head .link {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  padding-right: 3rem;
+}
+
+.middle-container {
+  border-left: 1.8px solid black;
+  
+  border-right: 1.8px solid black;
+  height: 58vh;
+}
+
+.middle-container .first-column {
+  border-right: 1.8px solid black;
+  display: flex;
+  justify-content: center;
+align-items: center;
+  height: 58vh;
+  
+}
+.middle-container .center-content{
+  display: flex;
+  justify-content: center;
+align-items: center;
+}
+.middle-container .lower-content{
+  display: flex;
+  justify-content: center;
+align-items: center;
+}
+.foot{
+  border: 1.8px solid black;
+  height:23vh;
+  display: flex;
+  /* justify-content: flex-start; */
+  align-items: center;
+  padding-left: 5rem;
+}
+.footer-content{
+ padding-left: 2rem;
+}
+.footer-lower-content{
+  display: flex;
+  justify-content: center;
+align-items: center;
+}
